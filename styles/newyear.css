@@ -1,0 +1,56 @@
+*{
+    margin: 100;
+    font-family: 'Work Sans', sans-serif;
+}
+/* header and navigation styles */
+.btn-primary{
+    width: 150px;
+height: 50px;
+background-color:chocolate
+
+}
+.top-right{
+    list-style: none;
+    font-weight: 100px;
+}
+
+/* banner styles */
+.banner{
+    display: flex;
+    align-items: center;
+    margin: 0 200px;
+}
+/* Top right text */
+.top-right {
+    position: absolute;
+    top: 130px;
+    right: 70px;
+    font-size: 15px;
+    text-align: left;
+    
+}
+.text-primary{
+    color: #FFFFFF;
+}
+/* body styles */
+.body{
+    margin: 0 150px;
+    display: flex;
+    align-items: center;
+}
+.main-body{
+    font-size: 55px;
+}
+.body-2{
+    display: flex;
+}
+.title{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+/* middle */
+.last-item{
+    display: flex;
+}
